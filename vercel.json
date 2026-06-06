@@ -15,10 +15,5 @@
       "src": "/health",
       "dest": "/api/health.js"
     }
-  ],
-  "env": {
-    "ANTHROPIC_API_KEY": "@anthropic-api-key",
-    "DISCORD_WEBHOOK_URL": "@discord-webhook-url",
-    "WEBHOOK_SECRET": "@webhook-secret"
-  }
+  ]
 }
